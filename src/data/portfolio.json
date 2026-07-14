@@ -1,0 +1,125 @@
+{
+  "profile": {
+    "name": "Yuvan Sankar",
+    "shortName": "Yuvan",
+    "tagline": "I build AI-powered products — from RAG systems to real-time interview platforms.",
+    "role": "Aspiring Software Engineer",
+    "specialization": "Applied AI · Full-Stack · Systems",
+    "location": "Dindigul, Tamil Nadu, India",
+    "yearsOfExperience": "",
+    "bio": "I build real-world applications at the intersection of AI, web, and systems — RAG tools that answer questions from video, and platforms that run live technical interviews. I'm a Computer & Communication Engineering student who enjoys solving logical challenges and shipping things people actually use. Alongside development, I've co-authored two IEEE conference papers on secure, privacy-preserving IoT.",
+    "avatarSvg": "/avatar-cut.png",
+    "social": {
+      "github": "https://github.com/YuvanSankar777",
+      "linkedin": "https://www.linkedin.com/in/yuvan-sankar-nkr-46b1262ab/",
+      "instagram": "",
+      "leetcode": "https://leetcode.com/u/Yuvan777/",
+      "email": "yuvansankarnkr@gmail.com",
+      "phone": "+91 96261 96271",
+      "website": "",
+      "resume": "https://drive.google.com/file/d/1Oj8ofqBGGt-W4ElKHbZljg41N3esuUlE/view"
+    }
+  },
+  "skills": {
+    "categories": [
+      { "name": "Languages", "items": ["Java", "Python", "C", "C++"] },
+      { "name": "Web", "items": ["React", "Django", "HTML", "CSS", "Tailwind"] },
+      { "name": "AI / Data", "items": ["Gemini API", "RAG", "Vector DBs", "MySQL"] },
+      { "name": "Tools", "items": ["Git & GitHub", "Docker", "Linux", "VS Code"] },
+      { "name": "Concepts", "items": ["OOP", "DBMS", "CRUD", "UI Design"] }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Infosys",
+      "role": "Artificial Intelligence Intern",
+      "period": "2025",
+      "location": "Remote",
+      "summary": "An AI internship focused on applied concepts, machine learning, and AI-driven problem solving.",
+      "highlights": [
+        "Built Eco Pack AI — an AI-based approach to smart, sustainable packaging solutions.",
+        "Gained hands-on experience with AI tools, model understanding, and real-world implementation.",
+        "Explored AI/ML workflows end-to-end, from concept to working prototype."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "yapback",
+      "title": "YapBack",
+      "subtitle": "AI-Powered YouTube Video Q&A",
+      "description": "A RAG application that answers questions from any YouTube video with transcript-grounded, timestamp-cited responses. Semantic search runs over Gemini embeddings with HNSW vector indexing, wrapped in a Streamlit chat interface with clickable deep-links.",
+      "stack": ["Python", "Streamlit", "Gemini API", "Endee Vector DB", "Docker"],
+      "role": "Solo build",
+      "year": "2025",
+      "link": "https://github.com/YuvanSankar777/yapback",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "crackitnow",
+      "title": "CrackItNow",
+      "subtitle": "AI Technical Interview Platform",
+      "description": "A mock-interview platform that generates technical questions and evaluates candidate responses with the Gemini API. Real-time coding via Monaco Editor and Judge0, JWT auth, WebSocket communication, and text-to-speech for an interactive interview simulation.",
+      "stack": ["React", "Django", "Gemini API", "Tailwind", "Judge0", "WebSockets"],
+      "role": "Full-stack",
+      "year": "2025",
+      "link": "https://github.com/YuvanSankar777/CrackItNow",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "eco-pack-ai",
+      "title": "Eco Pack AI",
+      "subtitle": "Sustainable Packaging Intelligence",
+      "description": "Built during my Infosys AI internship — an AI-driven approach to smart, sustainable packaging solutions, exploring model understanding and real-world implementation.",
+      "stack": ["Python", "Machine Learning", "Jupyter"],
+      "role": "AI Intern",
+      "year": "2025",
+      "link": "https://github.com/YuvanSankar777/eco-pack-ai",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "codegenagent",
+      "title": "CodeGenAgent",
+      "subtitle": "Autonomous Coding Agent",
+      "description": "An experimental TypeScript agent that generates and edits code from natural-language instructions — exploring how far a structured agent loop can carry a task on its own.",
+      "stack": ["TypeScript", "LLM", "Agents"],
+      "role": "Solo build",
+      "year": "2025",
+      "link": "https://github.com/YuvanSankar777/CodeGenAgent",
+      "image": "",
+      "highlight": false
+    }
+  ],
+  "education": [
+    {
+      "institution": "VSB Engineering College",
+      "degree": "B.E. — Computer & Communication Engineering",
+      "period": "2023 — Present",
+      "location": "Karur, India",
+      "score": "CGPA 8.15"
+    },
+    {
+      "institution": "Akshaya Academy School",
+      "degree": "12th Grade — CBSE",
+      "period": "2022 — 2023",
+      "location": "Oddanchatram, India",
+      "score": "79%"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Quantum-Resilient and Privacy-Preserving AIoT: A Secure Edge Intelligence Framework",
+      "venue": "IEEE Conference · D. Y. Patil University, Pune",
+      "year": "2025"
+    },
+    {
+      "title": "Lightweight Blockchain Framework for Secure and Privacy-Preserving IoT Systems",
+      "venue": "IEEE Conference · Vidyavardhaka College of Engineering, Mysuru",
+      "year": "2025"
+    }
+  ],
+  "testimonials": []
+}
